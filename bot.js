@@ -220,6 +220,7 @@
 			title = getElement("selected_title").title;
 		}
 		// avoid sending duplicate messaegs
+		
 		if (ignoreLastMsg[title] && (ignoreLastMsg[title]) == lastMsg) {
 			console.log(new Date(), 'nothing to do now... (2)', title, lastMsg);
 			return goAgain(() => { start(chats, cnt + 1) }, 0.1);
