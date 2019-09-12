@@ -68,4 +68,4 @@ Feel free to fix and PR it. I will probably not touch in this public repo anymor
 
 # -
 
-Authors: [Bruno Kilian](https://github.com/bruno222) and [Nelson Galdeman](https://github.com/NelsonGaldeman)
+
